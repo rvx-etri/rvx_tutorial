@@ -2,8 +2,8 @@
 <version_info>
   <rvx_version.path>kshan/rvx_server_manager_v2</rvx_version.path>
   <rvx_version.url>git@bitbucket.org:kyuseung_han/rvx_server_manager_v2.git</rvx_version.url>
-  <rvx_version.commit>f53550b</rvx_version.commit>
-  <rvx_version.date>2025-06-24-12-16</rvx_version.date>
+  <rvx_version.commit>63c2f7a</rvx_version.commit>
+  <rvx_version.date>2025-07-01-11-05</rvx_version.date>
   <rvx_devkit.path>rvx_server_manager_v2/rvx_devkit</rvx_devkit.path>
   <rvx_devkit.url>git@bitbucket.org:kyuseung_han/rvx_devkit.git</rvx_devkit.url>
   <rvx_devkit.commit>2963d60</rvx_devkit.commit>
@@ -14,8 +14,8 @@
   <rvx_binary.date>2025-06-12-17-10</rvx_binary.date>
   <rvx_install.path>rvx_server_manager_v2/rvx_install</rvx_install.path>
   <rvx_install.url>https://bitbucket.org/kyuseung_han/rvx_install.git</rvx_install.url>
-  <rvx_install.commit>1287cb0</rvx_install.commit>
-  <rvx_install.date>2025-06-24-12-16</rvx_install.date>
+  <rvx_install.commit>b29b084</rvx_install.commit>
+  <rvx_install.date>2025-07-01-11-00</rvx_install.date>
   <rvx_synthesizer_obfuscated.path>rvx_server_manager_v2/rvx_synthesizer_obfuscated</rvx_synthesizer_obfuscated.path>
   <rvx_synthesizer_obfuscated.url>git@bitbucket.org:kyuseung_han/rvx_synthesizer_obfuscated.git</rvx_synthesizer_obfuscated.url>
   <rvx_synthesizer_obfuscated.commit>c6dea76</rvx_synthesizer_obfuscated.commit>
@@ -24,6 +24,6 @@
   <rvx_platform_example.url>https://bitbucket.org/kyuseung_han/rvx_platform_example.git</rvx_platform_example.url>
   <rvx_platform_example.commit>2dc47a0</rvx_platform_example.commit>
   <rvx_platform_example.date>2025-05-14-15-25</rvx_platform_example.date>
-  <rvx_library>lecture</rvx_library>
+  <rvx_library>stable</rvx_library>
   <synced_before>true</synced_before>
 </version_info>
